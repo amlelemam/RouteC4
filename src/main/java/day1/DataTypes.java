@@ -33,6 +33,9 @@ public class DataTypes {
         System.out.println("Bool: " + myBool);
         System.out.println("Bool: " + t);
 
+        /*
+            Hello from day 2 branch. Note Master branch does not know about me.
+        */
     }
     static boolean t; //default false
 }
