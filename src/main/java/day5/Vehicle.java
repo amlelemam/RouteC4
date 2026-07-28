@@ -1,5 +1,15 @@
 package day5;
 
+/*
+- Create a 'Vehicle' superclass:
+    - Fields: 'brand' , 'year'
+    - Method: 'start()' prints 'Vehicle started'
+- Create subclasses:
+    - 'Car' add method 'hank()'
+    - 'Bike' add method 'ringBell()'
+- Instantiate both and demonstrate inherited + own methods.
+ */
+
 class Vehicle {
     String brand;
     int year;

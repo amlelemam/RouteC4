@@ -3,7 +3,13 @@ package day4;
 import java.util.Scanner;
 
 public class Rectangle {
+
+    //Encapsulation => data hiding, data protection, data security
+
     // Scanner input = new Scanner(System.in);
+
+    //Data hiding: Prevent direct modification of fields
+    //Benefit: Improves security, maintainability, and flexibility
 
     private double length; // field
     private double width; // field
